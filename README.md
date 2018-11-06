@@ -1,1 +1,2 @@
 # vg_account_confirm
+c671fece19b27ce8069a1b6c950e4cad2b3c246f2a2caf6e8e99171b60ec4f47
